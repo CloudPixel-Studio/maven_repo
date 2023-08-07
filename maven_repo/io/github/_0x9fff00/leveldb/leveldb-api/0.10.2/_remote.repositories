@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 07 17:05:43 CST 2023
+leveldb-api-0.10.2-sources.jar>=
+leveldb-api-0.10.2.jar>=
+leveldb-api-0.10.2.pom>=
